@@ -41,6 +41,7 @@
     "components": {
       "BoxGeometry": "components/BoxGeometry.coffee",
       "Camera": "components/Camera.coffee",
+      "Draw3D": "components/Draw3D.coffee",
       "Mesh": "components/Mesh.coffee",
       "MeshBasicMaterial": "components/MeshBasicMaterial.coffee",
       "Scene": "components/Scene.coffee",

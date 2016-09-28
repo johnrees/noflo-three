@@ -17,7 +17,8 @@
     "components/Mesh.coffee",
     "components/MeshBasicMaterial.coffee",
     "components/Scene.coffee",
-    "components/Vector3.coffee"
+    "components/Vector3.coffee",
+    "components/Draw3D.coffee"
   ],
   "json": [
     "component.json"
@@ -26,6 +27,7 @@
     "components": {
       "BoxGeometry": "components/BoxGeometry.coffee",
       "Camera": "components/Camera.coffee",
+      "Draw3D": "components/Draw3D.coffee",
       "Mesh": "components/Mesh.coffee",
       "MeshBasicMaterial": "components/MeshBasicMaterial.coffee",
       "Scene": "components/Scene.coffee",
